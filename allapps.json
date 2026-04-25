@@ -1,0 +1,74 @@
+{
+  "1":{
+    "name": "shizuku",
+    "on":"github.com",
+    "url":"https://github.com/RikkaApps/Shizuku/releases/download/v13.6.0/shizuku-v13.6.0.r1086.2650830c-release.apk",
+    "i":"通过本地网络调试实现adb权限"
+  },
+  "2":{
+    "name": "termux-app",
+    "on":"github.com",
+    "url":"https://github.com/termux/termux-app/releases/download/v0.118.3/termux-app_v0.118.3+github-debug_arm64-v8a.apk",
+    "i":"仿真终端"
+  },
+  "3":{
+    "name": "dhizuku",
+    "on":"github.com",
+    "url":"https://github.com/iamr0s/Dhizuku/releases/download/v2.11.2/Dhizuku_v2.11.2.apk",
+    "i":"通过设备所有者获得更高权限"
+  },
+  "4":{
+    "name": "MT管理器",
+    "on":"mt2.cn",
+    "url":"https://pan.mt2.cn/apk/26040964",
+    "i":"更好的文件资源管理器"
+  },
+  "5":{
+    "name": "SCENE",
+    "on":"omarea.com",
+    "url":"https://download.omarea.com/scene9/scene_9.2.11.apk",
+    "i":"玩机工具箱"
+  },
+  "6":{
+    "name": "Server Box",
+    "on":"cdn.lpkt.cn",
+    "url":"https://github.com/lollipopkit/flutter_server_box/releases/download/v1.0.1365/ServerBox_v1.0.1365_amd64.apk",
+    "i":"使用 Flutter 开发的 Linux 服务器工具箱"
+  },
+  "7":{
+    "name": "LSpatch",
+    "on":"github.com",
+    "url":"https://github.com/LSPosed/LSPatch/releases/download/v0.6/manager-v0.6-398-release.apk",
+    "i":"免root模块"
+  },
+    "8":{
+    "name": "localsend",
+    "on":"localsend.org",
+    "url":"https://github.com/localsend/localsend/releases/download/v1.17.0/LocalSend-1.17.0-android-arm64v8.apk",
+    "i":"局域网文件传输工具"
+  },
+    "9":{
+    "name": "apktool",
+    "on":"maximoff.su",
+    "url":"https://maximoff.su/apktool/dl/zh/Apktool_M_v2.4.0-260328%282026032801%29.apk?ts=1777101920&dt=release",
+    "i":"apk编辑器"
+  },
+    "10":{
+    "name": "Treble信息",
+    "on":"gitlab.com",
+    "url":"https://gitlab.com/api/v4/projects/30453147/packages/generic/apk/5.2.3/TrebleInfo-nonfree.apk",
+    "i":"专门查看手机系统包信息"
+  },
+    "11":{
+    "name": "LibChecker",
+    "on":"Libchecker",
+    "url":"https://github.com/LibChecker/LibChecker/releases/download/2.5.3/LibChecker-2.5.3.3f5abd2-2515-foss-release.apk",
+    "i":"更好的应用详情"
+  }
+
+
+
+
+
+  
+}
